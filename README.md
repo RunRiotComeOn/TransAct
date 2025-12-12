@@ -248,19 +248,6 @@ The optimal intervention layer varies across samples:
 
 By steering at the turning point, we influence the model's reasoning **before** it commits to a suboptimal path.
 
-## 📚 Citation
-
-If you use TransAct in your research, please cite:
-
-```bibtex
-@article{transact2024,
-  title={TransAct: Training-Free Transfer of Reasoning Abilities from LLMs to VLMs via Activation Steering},
-  author={Huang, Yixu},
-  journal={arXiv preprint},
-  year={2024}
-}
-```
-
 ## 🔗 Related Work
 
 - **Activation Addition** (Turner et al., 2024): Steering LLMs without optimization
